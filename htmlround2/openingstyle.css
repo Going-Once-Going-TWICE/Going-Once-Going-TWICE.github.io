@@ -1,0 +1,107 @@
+		body {
+		background-image: linear-gradient(to bottom right, #E7003D, #CE48EC, #C7EAFF);
+		}
+		
+		h1 {
+		font-family: Poppins;
+		}
+		
+		h2, h4, h5{
+		font-family: Quicksand;
+		}
+		
+		h3{
+		font-family: Quicksand;
+		}
+		
+			
+		p{
+		color: white;
+		font-family: Poppins;
+		}
+		
+		audio{
+		display: block;
+		}
+		
+		a {
+		font-family: Quicksand;
+		}
+		
+		a:link{
+		color: #4F1594;
+		text-decoration: none;
+		}
+		
+		a:visited {
+		color: #4F1594;
+		text-decoration: none;
+		}
+
+		a:hover {
+		  color: #ff33b1;
+		  text-decoration: none;
+		}
+
+		a:active {
+		  color: #ff33b1;
+		  text-decoration: none;
+		}
+		
+		
+		input {
+		font-family: Quicksand;
+		}
+		
+		.vertcent {
+		position: absolute;
+		top: 50%;
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+		}
+		
+		.buttonstyles {
+		font-family: Quicksand;
+		background-color: #4F1594;
+		border: none;
+		color: white;
+		padding: 8px 32px;
+		text-decoration: none;
+		margin: 4px 2px;
+		cursor: pointer;
+		}
+		
+		.b {
+		margin: 0;
+		float: right;
+		position: relative;
+		}
+		
+		#shadow {
+		box-shadow: 0 6px 10px 0 rgba(203, 30, 84, 0.2), 0 8px 22px 0 rgba(154, 7, 53, 0.19);
+		}
+		
+		#sidebar {
+		border-radius: 0vw 0vw 0vw 0vw;
+		background-color: white;
+		width: 25vw;
+		height:90vh;
+		box-shadow: 0 6px 10px 0 rgba(203, 30, 84, 0.2), 0 8px 22px 0 rgba(154, 7, 53, 0.19);
+		}
+		
+		#heading {
+		border-radius: 0vw 0vw 0vw 0vw;
+		background-color: #4F1594;
+		width: 25vw;
+		height:15vh;
+		color: white;
+		}
+		
+		#center {
+		display: flex;
+		align-items: center;
+		margin-right: 15vw;
+		margin-left: 15vw;
+		height:50vh;
+		box-shadow: 0 6px 10px 0 rgba(203, 30, 84, 0.2), 0 8px 22px 0 rgba(154, 7, 53, 0.19);
+		}
